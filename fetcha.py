@@ -2,7 +2,7 @@ from websocket_server import WebsocketServer
 import serial
 import threading
 # Replace with your Arduino's port and baud rate
-SERIAL_PORT = "/dev/tty.usbmodem141101"  # Update this with your Arduino port
+SERIAL_PORT = "/dev/cu.usbmodem141101"  # Update this with your Arduino port
 BAUD_RATE = 9600
 
 # Create a WebSocket server
