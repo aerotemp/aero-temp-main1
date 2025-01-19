@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #3A6EA5; /* Blue background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px; /* Increased spacing between logo and slogan */
+    text-align: center;
+}
+
+.logo-area {
+    width: 300px; /* Increased size */
+    height: 300px; /* Increased size */
+    background-color: #f8f7f4 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #3A6EA5; /* Blue background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px; /* Increased spacing between logo and slogan */
+    text-align: center;
+}
+
+.logo-area {
+    width: 300px; /* Increased size */
+    height: 300px; /* Increased size */
+    background-color: #f8f7f4;
+    border-radius: 50%; /* Circular shape */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); /* Slightly stronger shadow */
+}
+
+.logo-area img {
+    width: 260px; /* Larger logo */
+    height: 260px;
+    object-fit: cover;
+    border-radius: 50%; /* Ensure the logo stays circular */
+}
+
+.slogan {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Space between lines and text */
+}
+
+.slogan h1 {
+    font-size: 36px; /* Larger text */
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+.line {
+    width: 80%; /* Wider lines */
+    height: 4px; /* Thicker lines */
+    background-color: white;
+    border-radius: 2px;
+}
+;
+    border-radius: 50%; /* Circular shape */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2); /* Slightly stronger shadow */
+}
+
+.logo-area img {
+    width: 260px; /* Larger logo */
+    height: 260px;
+    object-fit: cover;
+    border-radius: 50%; /* Ensure the logo stays circular */
+}
+
+.slogan {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Space between lines and text */
+}
+
+.slogan h1 {
+    font-size: 36px; /* Larger text */
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+.line {
+    width: 80%; /* Wider lines */
+    height: 4px; /* Thicker lines */
+    background-color: white;
+    border-radius: 2px;
+}
